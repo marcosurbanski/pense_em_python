@@ -1,2 +1,2 @@
 # pense_em_python
-APenas testando a branch
+Respositório dedicado a estudos do livro Pense em Python.
